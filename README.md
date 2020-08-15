@@ -1,5 +1,5 @@
 # Jogo Flappy Bird
-Jogo Flappy Bird criado utilizando HTML, CSS e Javascript.
+* Jogo Flappy Bird criado utilizando HTML, CSS e Javascript.
 
 ### Como jogar?
 
