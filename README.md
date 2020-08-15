@@ -4,6 +4,7 @@
 ### Como jogar?
 
 * Você pode jogar, basta clicar[aqui](https://8bitsL.github.io/Flappy-Bird/flappy.html).
+* Aperte qualquer tecla para que o pássaro suba e solte para que o pássaro desça
 
 ### Descrição
 
