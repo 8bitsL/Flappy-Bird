@@ -8,7 +8,7 @@
 
 ### Descrição
 
-* O jogo foi criado através do desafio do curso de Web Moderno da [COD3R](https://github.com/cod3rcursos/) 
+* O jogo foi criado através do desafio do curso de Web Moderno da [COD3R] (https://github.com/cod3rcursos/) 
 para fins de estudo. 
 Para criação do mesmo foram utilizadas as linguagens HTML5. CSS3 e JavaScript. 
 Algumas funcionalidades foram criadas a parte do curso.
